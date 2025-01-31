@@ -1,16 +1,18 @@
-### Hi there 👋
+# Yusif Mohey 🌟
 
-<!--
-**Yusif-Mohey/Yusif-Mohey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to Yusif Mohey's GitHub profile! 👋 I am a software developer passionate about building innovative projects and technical solutions that enhance digital experiences. 🚀 Here, you'll find a collection of repositories showcasing my personal projects, coding experiments, and contributions to open-source initiatives. 💻✨
 
-Here are some ideas to get you started:
+## Skills and Technologies 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** Dart 🎯, Python 🐍, JavaScript 📜, C++ ➕, C# ⚡, Java ☕
+- **Web Development:** HTML 📄, CSS 🎨
+- **Databases:** MySQL 🗃️
+- **Development Tools:** Git 🐙, Docker 🐳, VS Code 🔧
+- **Operating Systems:** Windows 🪟
+
+## Contact 📬
+
+If you have any questions or would like to get in touch, feel free to reach out via:
+
+- **Email:** [moheyy28@gmail.com](mailto:moheyy28@gmail.com) 📧
+- **LinkedIn:** [Youssef Mohey](https://www.linkedin.com/in/youssef-mohey-274340320/) 🔗
